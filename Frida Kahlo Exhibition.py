@@ -1,3 +1,5 @@
+# Frida Kahlo Retrospective
+
 # list of the paintings:
 paintings = ["The Two Fridas", "My Dress Hangs Here", "Tree of Hope", "Self Portrait With Monkeys"]
 
